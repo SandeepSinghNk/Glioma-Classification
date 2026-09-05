@@ -6,7 +6,7 @@ This repository contains the complete analysis pipeline, code, and results for:
 > Singh, S., Pal, A., Mittal, N., Kaur, J., & Gared, F.
 > *Scientific Reports* (under review)
 
-It is provided as Supplementary Material S2 and is intended to let a reader reproduce every table, figure, and number reported in the manuscript directly from the raw, publicly available data.
+It is provided as Supplementary Material and is intended to let a reader reproduce every table, figure, and number reported in the manuscript directly from the raw, publicly available data.
 
 ---
 
