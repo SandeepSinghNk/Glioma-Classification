@@ -1,8 +1,0 @@
-Decision,Value,Locked in,Rule
-Duplicate patient handling,Dropped 1 duplicate (rows 409/424); N=838,Section 3,Byte-identical across all 24 fields incl. day-level age
-IMBALANCE_STRATEGY,No resampling,Section 5,"Highest mean CV AUC among {no resampling, class-weight, SMOTENC}"
-Train/test split,"670/168 (80/20, stratified)",Section 6,Fixed a priori; test set touched once (Section 15)
-PRIMARY_MODEL_NAME,XGBoost,Section 8,"Highest mean nested-CV outer-fold AUC, ties broken by Brier score"
-CALIBRATION_METHOD,Raw (uncalibrated),Section 10,Lowest ECE among methods with max single-value pileup <=10% of N
-OPTIMAL_THRESHOLD,0.377,Section 11,Youden's J on out-of-fold primary-model probabilities (train set only)
-4-feature reduced panel,"IDH1, Age_at_diagnosis, TP53, IDH2",Section 14,Top-4 by fold-aggregated permutation importance
