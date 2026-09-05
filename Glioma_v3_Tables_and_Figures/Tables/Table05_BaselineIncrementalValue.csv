@@ -1,0 +1,7 @@
+Model,N_features,roc_auc_mean,roc_auc_sd,balanced_accuracy_mean,balanced_accuracy_sd,mcc_mean,mcc_sd,sensitivity_mean,sensitivity_sd,specificity_mean,specificity_sd,brier_mean,brier_sd
+Age only,1,0.8087,0.0323,0.7256,0.0324,0.4565,0.0649,0.659,0.0537,0.7923,0.0436,0.174,0.015
+IDH1 only,1,0.8557,0.0241,0.8557,0.0241,0.7035,0.0474,0.9323,0.0295,0.779,0.0402,0.124,0.0154
+Age + IDH1,2,0.898,0.0263,0.86,0.025,0.7126,0.0499,0.9024,0.0396,0.8175,0.0441,0.1146,0.0153
+Full clinical (Age+Gender+Race),3,0.8127,0.0304,0.7431,0.0314,0.4902,0.0634,0.6853,0.0478,0.8008,0.0422,0.1726,0.0145
+"Full model, all 23 features (LR)",23,0.919,0.02,0.8754,0.0247,0.744,0.0505,0.9032,0.0349,0.8476,0.041,0.1026,0.015
+Rule-based (IDH1 wild-type -> predict GBM),1,0.8557,0.0241,0.8557,0.0241,0.7035,0.0474,0.9323,0.0295,0.779,0.0402,0.1567,0.0258

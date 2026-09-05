@@ -1,0 +1,7 @@
+Metric,XGBoost,LogisticRegression
+Nested-CV AUC (mean-of-fold),0.9228,0.92
+Nested-CV AUC (pooled-OOF),0.9172,0.9171
+Calibration ECE,0.0306,0.0279
+Youden threshold,0.43,0.409
+4-feature panel: same features as top-4?,-,No
+4-feature panel % of full-model AUC (nested estimate),98.8,99.2

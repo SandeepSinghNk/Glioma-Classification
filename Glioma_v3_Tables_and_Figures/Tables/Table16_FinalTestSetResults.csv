@@ -1,0 +1,9 @@
+Metric,Point_estimate,CI_lower_2.5%,CI_upper_97.5%
+AUC,0.9256,0.885,0.9607
+MCC,0.7249,0.6269,0.8262
+Balanced_accuracy,0.8669,0.8158,0.9159
+Sensitivity,0.9296,0.8636,0.9853
+Specificity,0.8041,0.7228,0.8835
+PPV,0.7765,0.6883,0.8642
+NPV,0.9398,0.8831,0.9872
+Brier,0.102,0.0754,0.13

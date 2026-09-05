@@ -1,0 +1,5 @@
+Model,Threshold,TP,TN,FP,FN,Accuracy,Sensitivity,Specificity
+LogisticRegression,0.5,253,329,60,28,0.8687,0.9004,0.8458
+SVM_RBF,0.5,260,325,64,21,0.8731,0.9253,0.8355
+RandomForest,0.5,257,330,59,24,0.8761,0.9146,0.8483
+XGBoost,0.5,252,334,55,29,0.8746,0.8968,0.8586

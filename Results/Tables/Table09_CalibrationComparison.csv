@@ -1,0 +1,4 @@
+Method,ECE,Brier,Slope,Intercept,Max_pileup_fraction,N_unique_values,Degenerate
+Raw (uncalibrated),0.0306,0.102,1.016,0.0259,0.012,352,False
+Platt/sigmoid (cross-fitted),0.0403,0.1028,0.9798,-0.0029,0.013,363,False
+Isotonic (cross-fitted),0.0238,0.1052,,,0.164,61,True

@@ -1,0 +1,7 @@
+Metric,Point_estimate,Bootstrap_mean,CI_lower_2.5%,CI_upper_97.5%
+auc,0.9153,0.9153,0.8929,0.9356
+mcc,0.7393,0.7396,0.6892,0.7895
+balanced_accuracy,0.8734,0.8735,0.8486,0.8978
+brier,0.1018,0.1017,0.0869,0.118
+sensitivity,0.8932,0.8934,0.8561,0.9275
+specificity,0.8535,0.8537,0.8162,0.8878

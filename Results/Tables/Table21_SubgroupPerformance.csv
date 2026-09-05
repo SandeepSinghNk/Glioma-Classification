@@ -1,0 +1,6 @@
+Group,N,N_GBM,N_LGG,AUC,AUC_CI_lower,AUC_CI_upper,Sensitivity,Specificity,Note,Attribute
+Male,93,40,53,0.9149,0.8486,0.9646,0.925,0.8302,,Gender
+Female,75,31,44,0.9479,0.8987,0.9878,0.9355,0.8182,,Gender
+White,154,63,91,0.934,0.8944,0.9669,0.9365,0.8242,,Race
+Black/African American,13,8,5,Not reportable,,,,,Fewer than 10 patients in one class — any AUC here would be noise presented as a number,Race
+Asian,1,0,1,Not reportable,,,,,Fewer than 10 patients in one class — any AUC here would be noise presented as a number,Race
