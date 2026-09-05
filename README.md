@@ -21,7 +21,7 @@ The analysis classifies the legacy LGG-versus-GBM label in the UCI Glioma Gradin
 ```
 .
 ├── README.md                          <- this file
-├── Glioma_Grading_v4_EXECUTED.ipynb   <- complete, executed analysis notebook
+├── Glioma_Grading.ipynb   <- complete, executed analysis notebook
 ├── environment/
 │   ├── requirements_primary.txt        <- exact package versions, primary environment
 │   ├── requirements_secondary.txt      <- exact package versions, cross-check environment
