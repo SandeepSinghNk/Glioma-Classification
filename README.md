@@ -1,4 +1,4 @@
-# Reproducibility Package: Glioma Grading Machine Learning Analysis
+# Glioma Grading Machine Learning Analysis
 
 This repository contains the complete analysis pipeline, code, and results for:
 
